@@ -17,4 +17,7 @@ public class TestController {
         return server;
     }
 
+    public void setServer(){
+        this.server = "123";
+    }
 }
